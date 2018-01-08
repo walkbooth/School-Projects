@@ -1,0 +1,4 @@
+TIME,PRIORITY,FIRST_NAME,LAST_NAME,QUESTION
+08/30/2017 10:17:00,3,James,Smith,How can I change my seat?
+09/22/2017 07:32:00,4,Eric,North,My flight was delayed and I missed a connected flight. Can I get a refund?
+12/08/2017 18:44:00,8,Jennifer,Williams,How do I use my mileage points?

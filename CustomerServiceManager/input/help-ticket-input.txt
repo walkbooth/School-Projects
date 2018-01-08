@@ -1,0 +1,4 @@
+TIME,PRIORITY,FIRST_NAME,LAST_NAME,QUESTION
+09/03/2017 10:00:00,5,Suzanne,Smith,How do I check my mileage balance?
+08/14/2017 06:54:00,2,Bob,Baker,Can I change my flight?
+08/11/2017 23:45:00,8,John,Smith,How much does it cost to change flights on the same day?

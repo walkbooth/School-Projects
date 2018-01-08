@@ -1,0 +1,4 @@
+DESCRIPTION,IATA_CODE,CALLSIGN,COUNTRY
+United Airlines,UA,UNITED,United States
+Delta Air Lines,DL,DELTA,United States
+JetBlue Airways,B6,JETBLUE,United States
